@@ -2,7 +2,7 @@
 - 👀 I’m interested in making the life easy for student to make available the study materials for free or for minimum charges
 - 🌱 I’m currently learning google api
 - 💞️ I’m looking to collaborate on anyone who is interested in blogging for google students and making Multiple Choice Questions for them.
-- 📫 How to reach me by my website www.teachers247.blogspot.com
+- 📫 How to reach me by khanzafar44@gmail.con
 
 <!---
 khanzafar44/khanzafar44 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
